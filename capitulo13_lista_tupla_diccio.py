@@ -1,4 +1,4 @@
-
+print("\n--------------------------------------------------------------------------------")
 #Listas
 lista = ["python","RA-MA","2019","Libro",3]
 print(lista)
@@ -87,7 +87,7 @@ lista11.pop()
 print("lista despues de pop:",lista11)
 lista11.clear()
 print("lista despues del clear:",lista11)
-
+print("\n--------------------------------------------------------------------------------")
 #Tuplas
 print("")
 tupla=("casa","2",99,"perro",99)
@@ -123,7 +123,7 @@ tupla5=(1,2,3,4,5,6,7,8,9,0)
 print(tupla5)
 tuplaresultado=tupla5*4
 print(tuplaresultado)
-
+print("\n--------------------------------------------------------------------------------")
 #Diccionarios
 print("")
 diassemana={"lunes":"monday",
@@ -149,7 +149,7 @@ print(diassemana)
 print("Numero de elementos del diccionario:",len(diassemana))
 print("Elemento mayor del diccionario:",max(diassemana))
 print("Elemento  menor del diccionario",min(diassemana))
-
+print("\n--------------------------------------------------------------------------------")
 print("")
 semana={"lunes":"monday",
         "martes":"tuesday",
