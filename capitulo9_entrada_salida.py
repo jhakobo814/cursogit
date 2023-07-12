@@ -26,7 +26,14 @@ print("leonardo " + "agudelo")
 
 
 print("Introduzca su nombre:")
-nombre = input()
-apellidos = input("Introduzca sus apellidos: ")
+nombre = "Leonardo" #input()
+apellidos = "Agudelo" #input("Introduzca sus apellidos: ")
 print("Hola!",nombre,apellidos)
 
+
+
+print("Nueva linea")
+suma=0
+for i in range(10):
+    suma += i
+    print("La suma es:", suma)
