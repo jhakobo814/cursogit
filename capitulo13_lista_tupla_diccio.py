@@ -7,7 +7,7 @@ print(lista[1])
 print(lista[2])
 print(lista[3])
 print(lista[4])
-
+print("\n--------------------------------------------------------------------------------")
 print("")
 lista1 = ["Camiseta","Pantalon","Zapatillas"]
 lista2 = ["Abrigo","Jersey","Sudadera","Calcetiles"]
